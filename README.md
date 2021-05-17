@@ -1,0 +1,1 @@
+# Using C++ Native library to hash strings in Android apps
